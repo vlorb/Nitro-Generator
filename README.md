@@ -7,7 +7,7 @@
 New method leaked for generating Discord Nitro.
 Educational purposes only I do not condone any cheating this is briefly for educational purposes on how to improve your software.
 
-MAKE SURE YOU HAVE THE DISCORD APP INSTALLED IT WILL NOT WORK IF YOU USE THE DISCORD BROWSER VERSION TO INSTALL THE DISCORD APP GO TO https://discord.com/api/download?platform=win 
+𝐌𝐀𝐊𝐄 𝐒𝐔𝐑𝐄 𝐘𝐎𝐔 𝐇𝐀𝐕𝐄 𝐓𝐇𝐄 𝐃𝐈𝐒𝐂𝐎𝐑𝐃 𝐀𝐏𝐏 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐄𝐃 𝐈𝐓 𝐖𝐈𝐋𝐋 𝐍𝐎𝐓 𝐖𝐎𝐑𝐊 𝐈𝐅 𝐘𝐎𝐔 𝐔𝐒𝐄 𝐓𝐇𝐄 𝐃𝐈𝐒𝐂𝐎𝐑𝐃 𝐁𝐑𝐎𝐖𝐒𝐄𝐑 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐓𝐎 𝐈𝐍𝐒𝐓𝐀𝐋𝐋 𝐓𝐇𝐄 𝐃𝐈𝐒𝐂𝐎𝐑𝐃 𝐀𝐏𝐏 𝐆𝐎 𝐓𝐎 https://discord.com/api/download?platform=win 
 
 INSTRUCTIONS BELOW
 
