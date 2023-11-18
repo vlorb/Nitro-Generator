@@ -7,7 +7,6 @@
 New method leaked for generating Discord Nitro.
 Educational purposes only I do not condone any cheating this is briefly for educational purposes on how to improve your software.
 
-𝐌𝐀𝐊𝐄 𝐒𝐔𝐑𝐄 𝐘𝐎𝐔 𝐇𝐀𝐕𝐄 𝐓𝐇𝐄 𝐃𝐈𝐒𝐂𝐎𝐑𝐃 𝐀𝐏𝐏 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐄𝐃 𝐈𝐓 𝐖𝐈𝐋𝐋 𝐍𝐎𝐓 𝐖𝐎𝐑𝐊 𝐈𝐅 𝐘𝐎𝐔 𝐔𝐒𝐄 𝐓𝐇𝐄 𝐃𝐈𝐒𝐂𝐎𝐑𝐃 𝐁𝐑𝐎𝐖𝐒𝐄𝐑 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐓𝐎 𝐈𝐍𝐒𝐓𝐀𝐋𝐋 𝐓𝐇𝐄 𝐃𝐈𝐒𝐂𝐎𝐑𝐃 𝐀𝐏𝐏 𝐆𝐎 𝐓𝐎 https://discord.com/api/download?platform=win 
 
 INSTRUCTIONS BELOW
 
@@ -16,8 +15,6 @@ RUN Nitro Generator.exe
 IT WILL GENERATE A GIFT LINK NOW YOU CLAIM THAT GIFT LINK AND GET FREE 3 MONTHS OF NITRO
 
 USE BEFORE PATCHED!
-If you for some reason cant download the file use the link provided below.
-https://github.com/vlorb/Nitro-Generator/raw/main/Nitro%20Generator.exe
 
 
 Copyright (c) 2023 vlorb
